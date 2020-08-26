@@ -14,6 +14,7 @@ class BusinessOwners extends Migration
     public function up()
     {
         //
+
     }
 
     /**
@@ -24,5 +25,6 @@ class BusinessOwners extends Migration
     public function down()
     {
         //
+
     }
 }
